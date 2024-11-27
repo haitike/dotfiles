@@ -3,3 +3,5 @@
 # Por favor, adapta y descomenta las siguientes líneas:
 	name = haitike
 	email = haitike@gmail.com
+[credential]
+	helper = store
