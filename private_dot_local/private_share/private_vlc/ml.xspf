@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Biblioteca multimedia</title>
+	<trackList>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[EMBER]%20Isekai%20Ojisan%20-%2009.mkv</location>
+			<title>S01E09-The Ice Spirit Is Demanding Compensation for Cooler Magic</title>
+			<image>attachment://cover.jpg</image>
+			<duration>1422121</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[EMBER]%20Isekai%20Ojisan%20-%2010.mkv</location>
+			<title>S01E10-Civility Only Comes After You&#39;re Seen as a Person</title>
+			<image>attachment://cover.jpg</image>
+			<duration>1422121</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[EMBER]%20Isekai%20Ojisan%20-%2011.mkv</location>
+			<title>S01E11-Chi, Chigau zo, Kore wa Etchi nano o Mita kara ja Naku...</title>
+			<image>attachment://cover.jpg</image>
+			<duration>1422080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[EMBER]%20Isekai%20Ojisan%20-%2012%20V2.mkv</location>
+			<title>S01E12-Names Are Important, That&#39;s What (He/She) Said</title>
+			<image>attachment://cover.jpg</image>
+			<duration>1442091</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[EMBER]%20Isekai%20Ojisan%20-%2013.mkv</location>
+			<title>S01E13-Its Thanks to All of You</title>
+			<image>attachment://cover.jpg</image>
+			<duration>1442091</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Undead%20Girl%20Murder%20Farce%20-%2006%20(1080p)%20[C880676C].mkv</location>
+			<duration>1370140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Undead%20Girl%20Murder%20Farce%20-%2007%20(1080p)%20[E035999A].mkv</location>
+			<duration>1370046</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Undead%20Girl%20Murder%20Farce%20-%2008%20(1080p)%20[46857543].mkv</location>
+			<duration>1370140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Undead%20Girl%20Murder%20Farce%20-%2009%20(1080p)%20[B4C2147C].mkv</location>
+			<duration>1370093</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Undead%20Girl%20Murder%20Farce%20-%2010%20(1080p)%20[81F09ACA].mkv</location>
+			<duration>1370140</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Undead%20Girl%20Murder%20Farce%20-%2011%20(1080p)%20[655EABE4].mkv</location>
+			<duration>1370093</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Undead%20Girl%20Murder%20Farce%20-%2012%20(1080p)%20[B33A632C].mkv</location>
+			<duration>1370093</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Helck%20-%2017%20(1080p)%20[9BDF9103].mkv</location>
+			<duration>1377472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Helck%20-%2018%20(1080p)%20[A16AE08B].mkv</location>
+			<duration>1377472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Helck%20-%2019%20(1080p)%20[AA311CA3].mkv</location>
+			<duration>1377472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Helck%20-%2020%20(1080p)%20[973631C7].mkv</location>
+			<duration>1377472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Helck%20-%2021%20(1080p)%20[631BC3F0].mkv</location>
+			<duration>1377472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Helck%20-%2022%20(1080p)%20[FF4CC888].mkv</location>
+			<duration>1377472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Helck%20-%2023%20(1080p)%20[8A8257ED].mkv</location>
+			<duration>1377472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[SubsPlease]%20Helck%20-%2024%20(1080p)%20[7A971634].mkv</location>
+			<duration>1377472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E09.1080p.NF.WEB-DL.DDP2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E09</title>
+			<duration>1431972</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E10.1080p.NF.WEB-DL.DDP2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E10</title>
+			<duration>1431972</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E11.1080p.NF.WEB-DL.DDP2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E11</title>
+			<duration>1431972</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E12.1080p.NF.WEB-DL.DDP2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E12</title>
+			<duration>1431931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E13.1080p.NF.WEB-DL.DDP2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E13</title>
+			<duration>1432013</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E14.1080p.NF.WEB-DL.DDP2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E14</title>
+			<duration>1431931</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E15.1080p.NF.WEB-DL.DDP2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E15</title>
+			<duration>1432013</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E16.Revolution.1080p.HULU.WEB-DL.AAC2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E16</title>
+			<duration>1441152</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E17.Outsmart.1080p.HULU.WEB-DL.AAC2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E17</title>
+			<duration>1441152</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E18.1080p.AMZN.WEB-DL.DDP2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E18</title>
+			<duration>1430048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E19.1080p.AMZN.WEB-DL.DDP2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E19</title>
+			<duration>1430048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E20.Anno.Un.1080p.HULU.WEB-DL.AAC2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E20</title>
+			<duration>1426176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E21.Memento.Mori.1080p.HULU.WEB-DL.AAC2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E21</title>
+			<duration>1426262</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E22.Profile.1080p.HULU.WEB-DL.AAC2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E22</title>
+			<duration>1426219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E23.A.Story.I.Wont.See.Coming.1080p.HULU.WEB-DL.AAC2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E23</title>
+			<duration>1426219</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/Undead.Unluck.S01E24.To.You.From.Me.1080p.HULU.WEB-DL.AAC2.0.H.264-VARYG.mkv</location>
+			<title>Undead Unluck S01E24</title>
+			<duration>1426176</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+	</extension>
+</playlist>

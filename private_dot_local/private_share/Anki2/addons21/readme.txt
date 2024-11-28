@@ -1,0 +1,1 @@
+﻿Open and install "YUMIN.ttf", and the font of the text should render in a nice serif font. 
