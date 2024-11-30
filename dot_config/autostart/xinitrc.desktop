@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/haitike/.xinitrc
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[es_ES]=xinitrc
+Comment[es_ES]=Sin descripción
+X-GNOME-Autostart-Delay=0

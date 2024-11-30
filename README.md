@@ -1,2 +1,3 @@
 # dotfiles
-Mis archivos dotfiles de Linux
+
+apt install chezmoi

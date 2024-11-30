@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=xmodmap ~/.Xmodmap
+X-GNOME-Autostart-enabled=false
+NoDisplay=false
+Hidden=false
+Name[es_ES]=xmodmap
+Comment[es_ES]=Sin descripción
+X-GNOME-Autostart-Delay=10

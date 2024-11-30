@@ -1,0 +1,51 @@
+{
+    "section1": {
+        "type": "section",
+        "description": "Behavior"
+    },
+    "launcherList": {
+        "type": "generic",
+        "default": [
+            "firefox.desktop",
+            "org.gnome.Terminal.desktop",
+            "nemo.desktop"
+        ],
+        "value": [
+            "firefox.desktop",
+            "org.gnome.Terminal.desktop",
+            "telegramdesktop.desktop",
+            "nemo.desktop",
+            "steam.desktop",
+            "vlc.desktop",
+            "kodi.desktop",
+            "pomello.desktop",
+            "pomodoro.desktop",
+            "spotify.desktop",
+            "pomodoneapp.desktop",
+            "anbox.desktop",
+            "cinnamon-custom-launcher-3.desktop",
+            "cinnamon-custom-launcher-4.desktop",
+            "cinnamon-custom-launcher-5.desktop",
+            "chromium.desktop",
+            "org.telegram.desktop.desktop",
+            "firefox-esr.desktop",
+            "cinnamon-custom-launcher-7.desktop",
+            "io.github.quodlibet.QuodLibet.desktop",
+            "cinnamon-custom-launcher-9.desktop",
+            "cinnamon-custom-launcher-10.desktop",
+            "cinnamon-custom-launcher-11.desktop",
+            "org.nicotine_plus.Nicotine.desktop",
+            "discord.desktop",
+            "cinnamon-custom-launcher-13.desktop",
+            "cinnamon-custom-launcher-14.desktop",
+            "cinnamon-custom-launcher-15.desktop"
+        ]
+    },
+    "allow-dragging": {
+        "type": "switch",
+        "default": true,
+        "description": "Allow dragging of launchers",
+        "value": true
+    },
+    "__md5__": "366f8e129abf9622014c95f26ce5aa0f"
+}

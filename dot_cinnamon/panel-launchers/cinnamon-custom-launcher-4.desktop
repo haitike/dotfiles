@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=normcap OCR JA
+Exec=/home/haitike/.local/bin/normcap -l jpn
+Comment=
+Terminal=false
+Icon=emoji-activities-symbolic.symbolic
+Type=Application

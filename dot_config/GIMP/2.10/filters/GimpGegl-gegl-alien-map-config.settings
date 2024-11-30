@@ -1,0 +1,16 @@
+# settings
+
+(GimpGegl-gegl-alien-map-config "2024-09-06 12:08:48"
+    (time 1725617328)
+    (color-model rgb)
+    (cpn-1-frequency 1)
+    (cpn-2-frequency 1)
+    (cpn-3-frequency 1)
+    (cpn-1-phaseshift 0)
+    (cpn-2-phaseshift 0)
+    (cpn-3-phaseshift 0)
+    (cpn-1-keep no)
+    (cpn-2-keep no)
+    (cpn-3-keep no))
+
+# end of settings

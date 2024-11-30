@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Anki Euskera
+Exec=anki -b /home/haitike/.anki_euskera
+Comment=
+Terminal=false
+Icon=/home/haitike/Imágenes/bandera-de-euskadi-pais-vasco-.jpg
+Type=Application

@@ -1,0 +1,40 @@
+{
+    "subreddit": {
+        "default": "all",
+        "type": "entry",
+        "description": "Subreddit:",
+        "tooltip": "supports multireddits and alterative sorting methods. eg: TheOnion+NotTheOnion, Linux/new and aww+worldnews/controversial",
+        "value": "evolution+AskEurope+learnspanish/new"
+    },
+    "height": {
+        "default": 400,
+        "type": "spinbutton",
+        "min": 100,
+        "max": 1000,
+        "description": "Height:",
+        "units": "pixels",
+        "step": 50,
+        "value": 450.0
+    },
+    "width": {
+        "default": 300,
+        "type": "spinbutton",
+        "min": 100,
+        "max": 1000,
+        "step": 50,
+        "description": "Width:",
+        "units": "pixels",
+        "value": 450.0
+    },
+    "refreshRate": {
+        "default": 5,
+        "type": "spinbutton",
+        "min": 1,
+        "max": 60,
+        "step": 1,
+        "description": "Refresh rate:",
+        "units": "minutes",
+        "value": 5
+    },
+    "__md5__": "46a82f393bb020099f0c2902cf9d0d26"
+}

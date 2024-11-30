@@ -1,0 +1,573 @@
+{\rtf1\ansi\deff0\adeflang1025
+{\fonttbl{\f0\froman\fprq2\fcharset0 Times New Roman;}{\f1\froman\fprq2\fcharset2 Symbol;}{\f2\fswiss\fprq2\fcharset0 Arial;}{\f3\fswiss\fprq2\fcharset0 Calibri;}{\f4\froman\fprq0\fcharset0 Liberation Serif{\*\falt Times New Roman};}{\f5\fnil\fprq2\fcharset0 Microsoft YaHei;}{\f6\fnil\fprq2\fcharset0 Mangal;}{\f7\fnil\fprq0\fcharset128 Mangal;}}
+{\colortbl;\red0\green0\blue0;\red128\green128\blue128;}
+{\stylesheet{\s0\snext0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082 Predeterminado;}
+{\*\cs15\snext15 Default Paragraph Font;}
+{\*\cs16\snext16\b\ab Símbolos de numeración;}
+{\s17\sbasedon0\snext18\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb240\sa120\keepn\hich\af5\langfe3082\dbch\af6\afs28\lang1025\loch\f2\fs28\lang3082 Encabezado;}
+{\s18\sbasedon0\snext18\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa120\hich\af0\langfe3082\dbch\af3\afs22\lang1025\loch\f3\fs22\lang3082 Cuerpo de texto;}
+{\s19\sbasedon18\snext19\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa120\hich\af0\langfe3082\dbch\af7\afs22\lang1025\loch\f3\fs22\lang3082 Lista;}
+{\s20\sbasedon0\snext20\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb120\sa120\noline\i\hich\af0\langfe3082\dbch\af7\afs24\lang1025\ai\loch\f3\fs24\lang3082 Etiqueta;}
+{\s21\sbasedon0\snext21\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\noline\hich\af0\langfe3082\dbch\af7\afs22\lang1025\loch\f3\fs22\lang3082 Índice;}
+}{\*\listtable{\list\listtemplateid1
+{\listlevel\levelnfc0\leveljc0\levelstartat12\levelfollow0{\leveltext \'02\'00.;}{\levelnumbers\'01;}\b\ab\fi-360\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid1}
+{\list\listtemplateid2
+{\listlevel\levelnfc0\leveljc0\levelstartat18\levelfollow0{\leveltext \'02\'00.;}{\levelnumbers\'01;}\b\ab\fi-360\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'01.;}{\levelnumbers\'01;}\fi-360\li1080}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'02.;}{\levelnumbers\'01;}\fi-360\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'03.;}{\levelnumbers\'01;}\fi-360\li1800}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'04.;}{\levelnumbers\'01;}\fi-360\li2160}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'05.;}{\levelnumbers\'01;}\fi-360\li2520}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'06.;}{\levelnumbers\'01;}\fi-360\li2880}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'07.;}{\levelnumbers\'01;}\fi-360\li3240}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'02\'08.;}{\levelnumbers\'01;}\fi-360\li3600}\listid2}
+{\list\listtemplateid3
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-432\li432}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-576\li576}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-720\li720}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-864\li864}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-1008\li1008}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-1152\li1152}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-1296\li1296}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-1440\li1440}
+{\listlevel\levelnfc0\leveljc0\levelstartat1\levelfollow0{\leveltext \'00;}{\levelnumbers;}\fi-1584\li1584}\listid3}
+}{\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}{\info{\creatim\yr2024\mo7\dy31\hr10\min51}{\author Win10}{\revtim\yr2024\mo8\dy1\hr13\min1}{\printim\yr2024\mo8\dy30\hr14\min34}{\comment OpenOffice}{\vern4170}}\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720\deftab720
+
+{\*\pgdsctbl
+{\pgdsc0\pgdscuse195\pgwsxn12240\pghsxn15840\marglsxn1701\margrsxn1701\margtsxn1417\margbsxn1417\pgdscnxt0 Predeterminado;}}
+\formshade{\*\pgdscno0}\paperh15840\paperw12240\margl1701\margr1701\margt1417\margb1417\sectd\sbknone\sectunlocked1\pgndec\pgwsxn12240\pghsxn15840\marglsxn1701\margrsxn1701\margtsxn1417\margbsxn1417\ftnbj\ftnstart1\ftnrstcont\ftnnar\aenddoc\aftnrstcont\aftnstart1\aftnnrlc
+\pgndec\pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\i\dbch\af4\afs21\ai\rtlch \ltrch\fs21\lang10\loch\f4
+ }{\i\b\dbch\af4\afs21\ai\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+HORAS DEL MES DE JULIO DE 2024  DE AUXILIARES AYUDA A DOMICILIO OT\'cdVAR.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+1. AUXILIAR MARISOL GONZ\'c1LEZ  JIM\'c9NEZ  ( Baja laboral desde el 30 de Octubre).}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+2.-AUXILIAR JENNIFER VILLOSLADA ANEAS ( Sustituta auxiliar Marisol Gonz\'e1lez )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+ }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Amelia Rodriguez: 23 horas ( Dependencia, en horario 1 hora de lunes a viernes ).}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Mar\'eda Gonz\'e1lez Alabarce: 45 horas ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado).}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Francisca Ruiz Rodr\'edguez: 45 horas( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado).}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- M\'ba Angeles Guirado : 40 horas ( Dependencia, en horario de 1 hora y 50 minutos de lunes a viernes }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Elvira Novo: 10 horas al mes .}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af4\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS AUXILIAR JENNIFER MES DE AGOSTO : 163 Horas.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+3.- AUXILIAR MARIA JOSE CONTRERAS MARTIN  :}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\cf1\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Angeles Pretel Alaminos: 1}{\cf1\hich\af4\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+0}{\cf1\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+ horas.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\cf1\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Carmen Mart\'edn Alonso: 94 horas ( Dependencia , en horario de 3 horas y 35 minutos de Lunes a S\'e1bados .)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\cf1\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Carmen: 45 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\cf1\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Fina y Faustino: 20 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS AUXILIAR MARIA JOS\'c9 AGOSTO : 169 horas.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+4.- AUXILIAR MARIA ANGELES GUIRADO :}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- F\'e9lix Ortega: 40 horas al mes.( Dependencia en horario de 1 hora y 50 minutos al d\'eda de lunes a viernes)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Ana Maria Moreno Mar\'edas: 45 horas al mes.( Dependencia en horario de 2 hora al d\'eda de lunes a viernes)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Carmen Carrascosa Novo: 10 horas.                                                                                                     }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+         }{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+                                    }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Jose L\'f3renzo Franco: 10 horas al mes.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Maria Teresa Jer\'f3nimo Morcillo : 45 horas ( En horario de 1 hora y 45 minutos de lunes a s\'e1bados)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\fs21\lang10\loch\f4
+  }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS MARIA ANGELES MES DE AGOSTO:  150 horas.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+                                                                                                                                                                                            }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+5.AUXILIAR ANA HIGUERO S\'c1NCHEZ  :}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+ }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Valentina Jer\'f3nimo Alaminos: 45 horas al mes( Dependencia en horario de 1 hora y 45 al d\'eda de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Elvira Juarez Arcos: 70 horas al mes .( Dependencia en horario de 2 horas y 35 al d\'eda de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Antonio Robles Carrascosa : 40 horas al mes.( Dependencia en horario de 1 hora y 30 al d\'eda de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Manuel Ortega Novo : 10 horas }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL AUXILIAR ANA MES DE AGOSTO : 165 horas                                                           }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+                                                                                                                                                                                                                                              }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+6.- AUXILIAR MARIA CARMEN S\'c1NCHEZ S\'c1NCHEZ ( Baja laboral desde el d\'eda 6 de Julio) }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+7.- AUXILIAR ANA DE JESUS FLEITAS (Sustituta auxiliar M\'ba Carmen S\'e1nchez ) :}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios :}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-  Ana Mingorance Novo: 45 horas  ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Francisco Carrascosa Juarez: 45 horas.  ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Josefina Arcos Martin : 10 horas al mes.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Francisco Salas Arcos : 20 horas al mes}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Manuel Saez Arcos: 10 horas al mes. }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Visitaci\'f3n P\'e9rez Fern\'e1ndez: 20 horas al mes. }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS DE AUXILIAR ANA DE JESUS MES DE AGOSTO : 150 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+8.- AUXILIAR VIRGINIA ANEAS RODR\'cdGUEZ ( Baja laboral desde el 19 hasta el 21 )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Carmen Jer\'f3nimo Novo: 31 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Lourdes Alaminos Guerrero: 54 horas al mes. ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Jose Manuel P\'e9rez Pretel : 45 horas al mes.(Dependencia , de Lunes a Viernes 2 horas al d\'eda).}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af4\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Josefa Novo Torres : 10 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af4\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Elvira Novo Torres : 10 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS DE AUXILIAR VIRGINIA MES DE AGOSTO : 150 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+9.-AUXILIAR MARIA CARMEN VERONICA ANEAS BUENO ( Baja auxiliar Virgnia):}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Carmen Jer\'f3nimo Novo: 3 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Lourdes Alaminos Guerrero: 4 horas al mes. ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Jose Manuel P\'e9rez Pretel : 3,30 horas al mes.(Dependencia , de Lunes a Viernes 2 horas al d\'eda).}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af4\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Josefa Novo Torres :  1 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af4\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Elvira Novo Torres : 1 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af3\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS DE AUXILIAR VER\'d3NICA MES DE AGOSTO : 12,30  horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+10.- AUXILIAR AMELIA S\'c1NCHEZ S\'c1NCHEZ ( Vacacaciones desde el hasta el ) :}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+    }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Antonio Martin Morcillo: 45 horas al mes. ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Juan Martin Castillo: 45 horas al mes. ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Francisca P\'e9rez Villoslada: 10 horas al mes.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Jos\'e9 P\'e9rez Benavides: 10 horas al mes.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-}{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Carmen Fajardo Rodr\'edguez : 45 horas . ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado) }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-}{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Jose Enrique Rodr\'edguez : 10 horas al mes }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af4\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\tx2295\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+\tab }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS AUXILIAR AMELIA MES DE AGOSTO :  165 horas.      }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+11. AUXILIAR LAURA GONZALEZ BUSTOS   ( Sustituta vacaciones auxiliar Amelia )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Antonio Martin Morcillo:  horas al mes. ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Juan Martin Castillo:  horas al mes. ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Francisca P\'e9rez Villoslada:  horas al mes.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Jos\'e9 P\'e9rez Benavides:  horas al mes.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-}{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Carmen Fajardo Rodr\'edguez :  horas . ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado) }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-}{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Jose Enrique Rodr\'edguez :  horas al mes }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS AUXILIAR LAURA MES DE AGOSTO :   horas.     }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\fs21\lang10\loch\f4
+                                                                                                                                                                 }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+ }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+12.-AUXILIAR EDUARDA FAJARDO MARTIN :}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\fs21\lang10\loch\f4
+ }{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+ }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af4\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-}{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+ Rosario  Alaminos Guerrero : 64  horas al mes.( Dependencia, 2 horas y 30 al d\'eda de Lunes a S\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Francisco Carrrascosa : 27 horas al mes. (Dependencia, 1 hora al d\'eda de Lunes a S\'e1bados.).}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Adoraci\'f3n Jer\'f3nimo Aneas: 10  horas al mes}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Carmen Juarez: 10 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Mar\'eda Guerrero S\'e1nchez: 45}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\fs21\lang10\loch\f4
+                                                                                                                                                                          }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+  }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS AUXILIAR EDUARDA MES DE AGOSTO: 156 horas.        }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+      }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+ }{\b\dbch\af4\ab\rtlch \ltrch\lang10\loch\f4
+ }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+13. AUXILIAR MARIA JOS\'c9 ARELLANO CENTURI\'d3N (Vacaciones desde el 12 hasta el 19):}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\fs21\lang10\loch\f4
+ }{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+ }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Adelaida Aneas Garc\'eda : 45 horas al mes.( Dependencia, en horario de 1 hora y 45 horas y 30 al d\'eda de Lunes a S\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Tomasa Dominguez Moreno :  45 horas al mes.( Dependencia, en horario de 1 hora y 45 horas y 30 al d\'eda de Lunes a S\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Juan Mingorance Juarez :  45 horas al mes.( Dependencia, en horario de 1 hora y 45 horas y 30 al d\'eda de Lunes a S\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Angeles Pretel Alaminos: 10 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Mar\'eda Martin : 20 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af4\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\fs21\lang10\loch\f4
+                                                                                                                                                                          }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+  }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS AUXILIAR  MARIA JOS\'c9 MES DE AGOSTO :  165 horas.         }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+14.- AUXILIA M\'ba CARMEN VILLA GARC\'cdA ( Sustituta vacaciones M\'ba Jos\'e9 )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+ }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Adelaida Aneas Garc\'eda : 12,15 horas al mes.( Dependencia, en horario de 1 hora y 45 horas y 30 al d\'eda de Lunes a S\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Tomasa Dominguez Moreno : 12,15  horas al mes.( Dependencia, en horario de 1 hora y 45 horas y 30 al d\'eda de Lunes a S\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Juan Mingorance Juarez : 12,15  horas al mes.( Dependencia, en horario de 1 hora y 45 horas y 30 al d\'eda de Lunes a S\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Angeles Pretel Alaminos: 2 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Mar\'eda Martin : 6 horas}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af4\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\fs21\lang10\loch\f4
+                                                                                                                                                                          }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+  }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS AUXILIAR  MARIA JOS\'c9 MES DE AGOSTO :  44,30 horas.         }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\ab\rtlch \ltrch\lang10\loch\f4
+                                                                                                                                                                      }{\dbch\af4\afs21\rtlch \ltrch\fs21\lang10\loch\f4
+                                                                                                                                                                 }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+15. AUXILIAR PAULA FAJARDO ESPA\'d1A ( Vacaciones desde el 10 hasta el 20) ( Asuntos propios d\'eda 23 ): }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\fs21\lang10\loch\f4
+ }{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+ }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Lourdes Alaminos Guerrero :20,15 horas ( Dependencia , en horario de 45 minutos al d\'eda de lunes a s\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-}{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Luis Aneas : 45 horas ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Africa Saez J\'edm\'e9nez: 40 horas ( Dependencia, en horario de 1 hora y 30 minutos de lunes a s\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Antonio Pretel Ruiz: 45 horas al mes. ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Francisca Garc\'eda P\'e9rez: 10 horas al mes.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\fs21\lang10\loch\f4
+                                                                                                                                                                         }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS AUXILIAR  PAULA MES DE AGOSTO : 160,15 horas.      }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+16. AUXILIAR CARMEN ANG\'c9LICA VILLOSLADA ANEAS ( Vacaciones y asuntos propios auxiliar Paula ):}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+ }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios:}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Lourdes Alaminos Guerrero : 7,30 horas ( Dependencia , en horario de 45 minutos al d\'eda de lunes a s\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-}{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Luis Aneas : 17,15 horas ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Africa Saez J\'edm\'e9nez: 15 horas ( Dependencia, en horario de 1 hora y 30 minutos de lunes a s\'e1bados )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Antonio Pretel Ruiz: 17,15 horas al mes. ( Dependencia, en horario de 1 hora y 45 minutos de lunes a s\'e1bado)}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Francisca Garc\'eda P\'e9rez: 4,30 horas al mes.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+                                                                                                                                                                         }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS AUXILIAR CARMEN ANG\'c9LICA MES DE AGOSTO : 61,45 horas.      }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+17. AUXILIAR SONATA UKSAITE ( Vacaciones desde el hasta el y asuntos propios d\'eda 31 ) :}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{{\*\bkmkstart __DdeLink__7_1464500205}{\*\bkmkend __DdeLink__7_1464500205}\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios : }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Manuela de La Rica Aneas: 10 horas al mes.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-}{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Julio Pretel Alaminos: 30 horas }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-}{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Amelia Rodr\'edguez: 48 horas }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Rosario Torres Aguila: 10 horas.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Amparo Rodr\'edguez P\'e9rez : 64 horas al mes}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+  }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS AUXILIAR  SONATA MES DE AGOSTO : 162 horas.   }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{{\*\bkmkstart __DdeLink__7_1464500205}{\*\bkmkend __DdeLink__7_1464500205}{\*\bkmkstart __DdeLink__7_1464500205}{\*\bkmkend __DdeLink__7_1464500205}\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082{\listtext\pard\plain \b\ab 18.\tab}\ilvl0\ls2 \li720\ri0\lin720\rin0\fi-360\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+AUXILIAR OLGA MU\'d1OZ RODR\'cdGUEZ ( Vacaciones auxiliar Sonata y d\'eda de asuntos propios )}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Usuarios : }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Manuela de La Rica Aneas:  horas al mes.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-}{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Julio Pretel Alaminos:  horas }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-}{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+Amelia Rodr\'edguez:  horas }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+- Rosario Torres Aguila:  horas.}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\dbch\af4\afs21\rtlch \ltrch\loch\fs21\lang10\loch\f4
+-Amparo Rodr\'edguez P\'e9rez :  horas al mes}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\dbch\af4\afs21\ab\rtlch \ltrch\fs21\lang10\loch\f4
+  }{\b\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+TOTAL HORAS AUXILIAR  OLGA MES DE AGOSTO :  horas.   }
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\hich\af3\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\rtlch \ltrch\loch\lang10
+}
+\par \pard\plain \s0\sl276\slmult1\ql\aspalpha\faauto\li0\ri0\lin0\rin0\fi0\sb0\sa200\nowidctlpar{\*\hyphen2\hyphlead2\hyphtrail2\hyphmax0}\hich\af0\langfe3082\dbch\af3\afs22\lang1025\cf0\loch\f3\fs22\lang3082\li0\ri0\lin0\rin0\fi0\sl200\slmult0\sb0\sa0\ltrpar{\b\hich\af4\dbch\af4\afs21\ab\rtlch \ltrch\loch\fs21\lang10\loch\f4
+}
+\par }

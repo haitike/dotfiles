@@ -1,0 +1,9 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.95703099999999997 0 0))
+(palette "Histórico de color")
+(font "Sans-serif")
+(font-size 36)
+(line-spacing -12)
+
+# end of gimp-text-tool options

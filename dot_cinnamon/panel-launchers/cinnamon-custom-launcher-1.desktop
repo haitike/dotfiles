@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=pycharm
+Exec=/opt/pycharm-2023.3.4/bin/pycharm.sh
+Comment=
+Terminal=true
+Icon=/opt/pycharm-2023.3.4/bin/pycharm.svg
+Type=Application
