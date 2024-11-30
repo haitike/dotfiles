@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install packages
-sudo apt install mousepad git 7zip telegram-desktop cinnamon tmux vlc nicotine smplayer chromium neovim quodlibet qbittorrent snapd gimp libreoffice-writer libreoffice-calc
+sudo apt install mousepad git 7zip telegram-desktop cinnamon tmux vlc nicotine smplayer chromium neovim quodlibet qbittorrent snapd gimp libreoffice-writer libreoffice-calc curl
 
 # Prompt for Anki installation
 read -p "Do you want to install Anki? (y/n): " INSTALL_ANKI
