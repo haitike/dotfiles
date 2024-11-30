@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e99bc087-32bb-4928-b237-d18c19561349" name="Changes" comment="small image highlighter changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;haitike&quot;
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="b0b04ca4-bc0c-410e-9b66-cd73a00d0deb" />
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/haitike/justificator.git&quot;,
+    &quot;accountId&quot;: &quot;b0b04ca4-bc0c-410e-9b66-cd73a00d0deb&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2lFVep0JfhbVwnQdzXrUzqVagjZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.clean_dirs.executor&quot;: &quot;Run&quot;,
+    &quot;Python.documento_justificacion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frontmatter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.image_highlighter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.justificator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.open hours.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utilidades.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/haitike/src/justificator/utilidades.py&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;HTML&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e99bc087-32bb-4928-b237-d18c19561349" name="Changes" comment="" />
+      <created>1724775910183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724775910183</updated>
+      <workItem from="1724775911768" duration="447000" />
+      <workItem from="1724865279994" duration="21000" />
+      <workItem from="1724867248572" duration="1295000" />
+      <workItem from="1725018598295" duration="1744000" />
+      <workItem from="1725264562788" duration="1263000" />
+      <workItem from="1725375836839" duration="31000" />
+      <workItem from="1725883986547" duration="3168000" />
+      <workItem from="1725976979966" duration="22000" />
+      <workItem from="1726060047458" duration="1981000" />
+      <workItem from="1726062213834" duration="2308000" />
+      <workItem from="1726137755961" duration="98000" />
+      <workItem from="1726154223058" duration="774000" />
+      <workItem from="1726156835033" duration="16989000" />
+      <workItem from="1726213472610" duration="1223000" />
+      <workItem from="1726300996210" duration="1384000" />
+      <workItem from="1726302557903" duration="34000" />
+      <workItem from="1726306776258" duration="19000" />
+      <workItem from="1726306803966" duration="46000" />
+      <workItem from="1726306948960" duration="102000" />
+      <workItem from="1726307057389" duration="1000" />
+      <workItem from="1726307064630" duration="48000" />
+      <workItem from="1726307119222" duration="7000" />
+      <workItem from="1726307132726" duration="966000" />
+      <workItem from="1726324253902" duration="10820000" />
+      <workItem from="1726335233981" duration="33000" />
+      <workItem from="1726356141703" duration="7089000" />
+      <workItem from="1726389326259" duration="943000" />
+      <workItem from="1726589614905" duration="2450000" />
+      <workItem from="1726615154711" duration="2070000" />
+      <workItem from="1726644405045" duration="3489000" />
+      <workItem from="1726657237528" duration="27126000" />
+      <workItem from="1726734743700" duration="170000" />
+      <workItem from="1726735606274" duration="1350000" />
+      <workItem from="1726747896036" duration="3842000" />
+      <workItem from="1726830000136" duration="29000" />
+      <workItem from="1726831842890" duration="2810000" />
+      <workItem from="1726843127544" duration="30041000" />
+      <workItem from="1726881370998" duration="2059000" />
+      <workItem from="1726909169248" duration="11461000" />
+      <workItem from="1727076582512" duration="1529000" />
+      <workItem from="1727080336734" duration="9052000" />
+      <workItem from="1727101925514" duration="1289000" />
+      <workItem from="1727163942326" duration="7934000" />
+      <workItem from="1727336531663" duration="3416000" />
+      <workItem from="1727775199604" duration="8001000" />
+      <workItem from="1727863126773" duration="1897000" />
+      <workItem from="1727865081007" duration="9000" />
+      <workItem from="1727865172317" duration="945000" />
+      <workItem from="1727868118842" duration="732000" />
+      <workItem from="1727870614413" duration="1155000" />
+      <workItem from="1728921207190" duration="29000" />
+      <workItem from="1729810377636" duration="22000" />
+      <workItem from="1729810471766" duration="13000" />
+      <workItem from="1729810527617" duration="49000" />
+      <workItem from="1729810605039" duration="11000" />
+      <workItem from="1730460617522" duration="8000" />
+      <workItem from="1731461294560" duration="16000" />
+      <workItem from="1731461374464" duration="1113000" />
+      <workItem from="1732031569331" duration="9000" />
+      <workItem from="1732032389309" duration="1460000" />
+    </task>
+    <task id="LOCAL-00001" summary="Versión final del reemplazo de imágenes. Reemplazo de texto usando campos del frontmatter de un archivo de markdown completado.">
+      <option name="closed" value="true" />
+      <created>1726682055384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726682055384</updated>
+    </task>
+    <task id="LOCAL-00002" summary="minor changes">
+      <option name="closed" value="true" />
+      <created>1726683156626</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726683156626</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Renombrado justificator.py a documento_justificacion.py en preparación para convertirlo a una clase.  main.py (justificator.py) será recreado despues tras refactorizar.">
+      <option name="closed" value="true" />
+      <created>1726683607027</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726683607027</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Refactorizado completo del codigo usando una clase y varios archivos.&#10;&#10;Además ahora las imágenes que se añaden reemplazan texto y no otras imágenes.">
+      <option name="closed" value="true" />
+      <created>1726871570088</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726871570088</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ahora justificator.py puede ser ejecutado en cualquier carpeta donde nos encontremos en terminal.&#10;&#10;Las rutas de imagenes y docx fueron cambiadas a un nivel inferior (usando justificacion/images en lugar de images) ya que el archivo markdown está en el nivel superior desde el que empezamos ahora.">
+      <option name="closed" value="true" />
+      <created>1726879102900</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726879102900</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Soporte para enlaces!">
+      <option name="closed" value="true" />
+      <created>1726883327226</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726883327226</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Autoagregar_enlaces implementado desde la misma funcion que reemplazar_textos.&#10;&#10;Organizadas Constantes">
+      <option name="closed" value="true" />
+      <created>1726911389922</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726911389922</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lista global de imagenes usadas en todos los documentos.&#10;&#10;Algunos otros cambios.">
+      <option name="closed" value="true" />
+      <created>1726917093605</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726917093605</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Documento e imagen de Publicidad">
+      <option name="closed" value="true" />
+      <created>1726920539832</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726920539832</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Documento Directorios añadido. Mejorada funcion de auto agregar enlaces.">
+      <option name="closed" value="true" />
+      <created>1727095193342</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727095193342</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Implementacion preliminar de la justificacion del PKD.">
+      <option name="closed" value="true" />
+      <created>1727168511361</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1727168511361</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Nueva version del archivo de Directorios">
+      <option name="closed" value="true" />
+      <created>1731463174423</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731463174423</updated>
+    </task>
+    <task id="LOCAL-00013" summary="small image highlighter changes">
+      <option name="closed" value="true" />
+      <created>1732033845114</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1732033845114</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Versión final del reemplazo de imágenes. Reemplazo de texto usando campos del frontmatter de un archivo de markdown completado." />
+    <MESSAGE value="minor changes" />
+    <MESSAGE value="Renombrado justificator.py a documento_justificacion.py en preparación para convertirlo a una clase.  main.py (justificator.py) será recreado despues tras refactorizar." />
+    <MESSAGE value="Refactorizado completo del codigo usando una clase y varios archivos.&#10;&#10;Además ahora las imágenes que se añaden reemplazan texto y no otras imágenes." />
+    <MESSAGE value="Ahora justificator.py puede ser ejecutado en cualquier carpeta donde nos encontremos en terminal.&#10;&#10;Las rutas de imagenes y docx fueron cambiadas a un nivel inferior (usando justificacion/images en lugar de images) ya que el archivo markdown está en el nivel superior desde el que empezamos ahora." />
+    <MESSAGE value="Soporte para enlaces!" />
+    <MESSAGE value="Autoagregar_enlaces implementado desde la misma funcion que reemplazar_textos.&#10;&#10;Organizadas Constantes" />
+    <MESSAGE value="Lista global de imagenes usadas en todos los documentos.&#10;&#10;Algunos otros cambios." />
+    <MESSAGE value="Documento e imagen de Publicidad" />
+    <MESSAGE value="Documento Directorios añadido. Mejorada funcion de auto agregar enlaces." />
+    <MESSAGE value="Implementacion preliminar de la justificacion del PKD." />
+    <MESSAGE value="Nueva version del archivo de Directorios" />
+    <MESSAGE value="small image highlighter changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="small image highlighter changes" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/justificator$frontmatter.coverage" NAME="frontmatter Coverage Results" MODIFIED="1726681377140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/justificator$clean_dirs.coverage" NAME="clean_dirs Coverage Results" MODIFIED="1726835375640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/justificator$main.coverage" NAME="main Coverage Results" MODIFIED="1726875876202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/justificator$image_highlighter.coverage" NAME="image_highlighter Coverage Results" MODIFIED="1726877581132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/justificator$utilidades.coverage" NAME="utilidades Coverage Results" MODIFIED="1726858532653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/justificator$justificator.coverage" NAME="justificator Coverage Results" MODIFIED="1727173475856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/justificator$open_hours.coverage" NAME="open hours Coverage Results" MODIFIED="1726335238213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/justificator$documento_justificacion.coverage" NAME="documento_justificacion Coverage Results" MODIFIED="1726881058962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

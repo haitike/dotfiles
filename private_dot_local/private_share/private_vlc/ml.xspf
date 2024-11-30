@@ -280,6 +280,34 @@
 				<vlc:id>35</vlc:id>
 			</extension>
 		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[ASW]%20Rekishi%20ni%20Nokoru%20Akujo%20ni%20Naru%20zo%20-%2009%20[1080p%20HEVC][93DE5D0F].mkv</location>
+			<duration>1420109</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[Erai-raws]%20Maou%202099%20-%2007%20[1080p%20CR%20WEBRip%20HEVC%20EAC3][MultiSub][2ABB9EB9].mkv</location>
+			<duration>1420064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[Erai-raws]%20Shangri-La%20Frontier%20S2%20-%2007%20[1080p%20CR%20WEBRip%20HEVC%20EAC3][MultiSub][88E28BB5].mkv</location>
+			<duration>1421984</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///media/haitike/MisCosas/anime/[Erai-raws]%20Yarinaoshi%20Reijou%20wa%20Ryuutei%20Heika%20o%20Kouryakuchuu%20-%2008%20[1080p%20CR%20WEBRip%20HEVC%20EAC3][MultiSub][47ED3918].mkv</location>
+			<duration>1420064</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
 	</trackList>
 	<extension application="http://www.videolan.org/vlc/playlist/0">
 		<vlc:item tid="0"/>
@@ -318,5 +346,9 @@
 		<vlc:item tid="33"/>
 		<vlc:item tid="34"/>
 		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
 	</extension>
 </playlist>

@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 634cf9f12c898ee520f251b2981cb583db3ce3c0 haitike <haitike@gmail.com> 1726307257 +0200	commit (initial): Initial commit
+634cf9f12c898ee520f251b2981cb583db3ce3c0 c0e9643597f04cafbe2d65c1c97a8ee52fc633b5 haitike <haitike@gmail.com> 1726682044 +0200	commit: Versión final del reemplazo de imágenes. Reemplazo de texto usando campos del frontmatter de un archivo de markdown completado.
+c0e9643597f04cafbe2d65c1c97a8ee52fc633b5 5588763cc9445f3b9261597c237f92778e7a97e8 haitike <haitike@gmail.com> 1726683153 +0200	commit: minor changes
+5588763cc9445f3b9261597c237f92778e7a97e8 ab4a40b16f034da7cabca0fdf16b2bf5fb13a980 haitike <haitike@gmail.com> 1726683602 +0200	commit: Renombrado justificator.py a documento_justificacion.py en preparación para convertirlo a una clase. main.py (justificator.py) será recreado despues tras refactorizar.
+ab4a40b16f034da7cabca0fdf16b2bf5fb13a980 08114221af4c6be97377b63d99c70faaf038467b haitike <haitike@gmail.com> 1726871570 +0200	commit: Refactorizado completo del codigo usando una clase y varios archivos.
+08114221af4c6be97377b63d99c70faaf038467b 60bc1774d35256c48d7257d1722e9c5788b9581e haitike <haitike@gmail.com> 1726879100 +0200	commit: Ahora justificator.py puede ser ejecutado en cualquier carpeta donde nos encontremos en terminal.
+60bc1774d35256c48d7257d1722e9c5788b9581e 0c11a8cc4a1269d748bb891256d954ef78523aaf haitike <haitike@gmail.com> 1726883327 +0200	commit: Soporte para enlaces!
+0c11a8cc4a1269d748bb891256d954ef78523aaf 1520cb478ac619f18843ec9729f26ba836373af2 haitike <haitike@gmail.com> 1726911389 +0200	commit: Autoagregar_enlaces implementado desde la misma funcion que reemplazar_textos.
+1520cb478ac619f18843ec9729f26ba836373af2 fa4d70d24dd10d26b57d2a88b3923ae51b6d40f1 haitike <haitike@gmail.com> 1726917091 +0200	commit: Lista global de imagenes usadas en todos los documentos.
+fa4d70d24dd10d26b57d2a88b3923ae51b6d40f1 50351239e21e6cf84da6953d6f258bce6a39c5f1 haitike <haitike@gmail.com> 1726920538 +0200	commit: Documento e imagen de Publicidad
+50351239e21e6cf84da6953d6f258bce6a39c5f1 db5e07e6ffe14c00bdefa8d9b9c1aa0ff9733ea4 haitike <haitike@gmail.com> 1727095193 +0200	commit: Documento Directorios añadido. Mejorada funcion de auto agregar enlaces.
+db5e07e6ffe14c00bdefa8d9b9c1aa0ff9733ea4 e4264c72c156a2b70c3714e0dd1970538716de1f haitike <haitike@gmail.com> 1727168503 +0200	commit: Implementacion preliminar de la justificacion del PKD.
+e4264c72c156a2b70c3714e0dd1970538716de1f 9889adf537ec8d1a22330bfb6f1489505337d684 haitike <haitike@gmail.com> 1731463164 +0100	commit: Nueva version del archivo de Directorios
+9889adf537ec8d1a22330bfb6f1489505337d684 a89754203f9f0db91c777df87fa11cd4f2eaa44b haitike <haitike@gmail.com> 1732033843 +0100	commit: small image highlighter changes
