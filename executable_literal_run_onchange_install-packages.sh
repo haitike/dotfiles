@@ -36,4 +36,4 @@ rm discord*.deb
 sudo snap install snapd
 sudo snap install todoist
 sudo snap set core experimental.refresh-app-awareness=true
-sudo snap install obsidian
+sudo snap install --classic obsidian
