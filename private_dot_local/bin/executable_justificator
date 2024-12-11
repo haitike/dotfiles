@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Ruta al script de Python que deseas ejecutar
+python3.9 ~/src/justificator/justificator.py "$@"
