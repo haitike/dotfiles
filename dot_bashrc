@@ -118,6 +118,7 @@ fi
 
 # My custom exports
 export EDITOR=/usr/bin/nvim
+export PATH=$HOME/.local/bin:/snap/bin:$PATH
 #export PATH="$HOME/.local/bin:/snap/bin:$PATH":/opt/pycharm-2023.3.4/bin/
 
 # My custom scripts
